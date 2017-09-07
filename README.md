@@ -1,2 +1,2 @@
 # test
-this is the first proj, used for test
+this is my first proj, used for test
